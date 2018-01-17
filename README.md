@@ -1,10 +1,10 @@
 # M6 ASESOR: Inteligencia emocional y psicología positiva {#m6-asesor-inteligencia-emocional-y-psicolog-a-positiva}
 
-Módulo 6\. Itinerario de asesores: Inteligencia emocional y psicología positiva.
 
-“No hay nada más práctico que una buena teoría”
 
-                                                                                                                                       Kurt Lewin
+**_“No hay nada más práctico que una buena teoría”_**
+
+**Kurt Lewin**
 
 [GESTION DE EQUIPOS HUMANOS EN UN CENTRO ESCOLAR](export/gestion_de_equipos_humanos_en_un_centro_escolar/README.md)        
 
