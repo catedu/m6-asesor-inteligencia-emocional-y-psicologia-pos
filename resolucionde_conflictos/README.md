@@ -1,8 +1,6 @@
 # RESOLUCIÓN DE CONFLICTOS {#resoluci-n-de-conflictos}
 
-_“No hay caminos para la paz, la paz es el camino”_
-
-**Mahatma Ghandy**
+    “No hay caminos para la paz, la paz es el camino” Mahatma Ghandy
 
 ---
 

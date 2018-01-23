@@ -2,7 +2,7 @@
 
 La comunicación es la base de las relaciones, o si se prefiere relacionarse es comunicarse.
 
-**Axiomas básicos de la comunicación**
+**Axiomas básicos de la comunicación:**
 
 **“No es posible no comunicarse”**: Siempre que estamos con alguien que nos puede percibir, aunque estemos callados, estamos comunicándonos, con los gestos, los silencios, nuestros movimientos…
 
