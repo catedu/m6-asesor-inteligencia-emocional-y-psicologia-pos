@@ -6,6 +6,8 @@ Cuando un grupo se enfrenta a una tarea, que en nuestro ámbito puede plantearse
 2.  Fase de tarea
 3.  Fase de Implementación
 
+<iframe src="https://giphy.com/embed/IxjZ4cgqh2VP2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/new-tech-construction-IxjZ4cgqh2VP2">via GIPHY</a></p>
+
 **Fase de Pre-Tarea
 **
 Esta fase busca estrategias que faciliten el avance del grupo y el paso de una perspectiva individual a la grupal. Corremos el riesgo en seguir la propuesta de uno de los miembros y que el conjunto no se identifique con la propuesta o la perciban por encima o por debajo de sus posibilidades (zona de desarrollo próximo). 
