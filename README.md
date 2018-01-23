@@ -20,3 +20,5 @@
 2.1 Importancia de la forma en que se resuelven los conflictos: Actitudes ante el conflicto.      
 
 2.2 Gestión positiva del conflicto.
+
+2.3 La comunicación como clave para la resolución de conflictos.
