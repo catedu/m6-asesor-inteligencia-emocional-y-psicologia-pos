@@ -2,8 +2,8 @@
 
 _“No hay caminos para la paz, la paz es el camino”_
 
-**Mahatma Ghandy
-**
+**Mahatma Ghandy**
+
 ---
 
 ![](/assets/conflicto.png)
