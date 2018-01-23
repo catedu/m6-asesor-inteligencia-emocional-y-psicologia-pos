@@ -16,14 +16,14 @@ Existe todo un abanico de posibilidades de mejora de la comunicación. Gracias a
 
 El lenguaje verbal es un tipo de expresión de la que tenemos conocimiento directo, aunque ello no significa que siempre dominemos sus instrumentos:
 
-#### 1 Precisión del lenguaje para hacer llegar el mensaje. +
+#### 1 Precisión del lenguaje para hacer llegar el mensaje. 
 
 La precisión es una de las cualidades más indispensables para una buena comunicación, sobre todo porque los malentendidos surgen muchas veces por suposiciones que después se descubre que eran infundadas. La herramienta que me parece más útil para trabajar este aspecto es la denominada brújula del lenguaje (Carol y Saint Paul).
 
 
 LA BRÚJULA DEL LENGUAJE DE ALAIN CAROL
 
-![](images/image10.png)
+![](/images/image10.png)
 
 Parten del concepto de metamodelo que hace referencia a que nosotros tenemos una serie de hábitos, una especie de “programación” interna que hace que en las situaciones respondamos con pensamientos que actúan como marco para interpretar la realidad y a los que le damos una credibilidad total.La brújula del lenguaje es un instrumento a fin de descubrir esos metamodelos.
 
