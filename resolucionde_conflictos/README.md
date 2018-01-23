@@ -2,16 +2,13 @@
 
 _“No hay caminos para la paz, la paz es el camino”_
 
-Mahatma Ghandy
+**Mahatma Ghandy
+**
+---
 
-<iframe src="https://giphy.com/embed/4jZBAZTvuASt2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hulk-the-4jZBAZTvuASt2">via GIPHY</a></p>
+![](/assets/conflicto.png)
 
-
-
-
-
-|CONFLICTO|
-| --- |
+---
 
 ¿Qué palabras vienen a tu cabeza, sin pensar demasiado, a propósito de la palabra que figura en el recuadro?
 
@@ -21,5 +18,4 @@ Hemos de entender los conflictos como algo natural, que forman parte de la vida,
 
 ![](/images/image1.jpg)
 
-| Póster de 1937 publicado  por el movimiento americano contra la guerra para simbolizar la resolución de conflictos en el que todos ganamos algo. |
-| --- |
+Póster de 1937 publicado  por el movimiento americano contra la guerra para simbolizar la resolución de conflictos en el que todos ganamos algo.
