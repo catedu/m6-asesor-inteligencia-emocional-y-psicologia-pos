@@ -14,6 +14,8 @@ Por otra parte y dentro también del marco de la Teoría Sistémica considero qu
 
 De acuerdo con este modelo, “El asesor es una especie de acompañante, experto en algunas cosas, facilitador de recursos. Mi idea es que, básicamente, un asesor debe ser un acompañante en el proceso de formación”; “Es un docente que acompaña un proceso de reflexión, un proceso de maduración para replantearse lo que uno hace, cómo lo hace y cómo se puede mejorar” .
 
+---
+
 El asesor de formación debería seguir unos** principios básicos**:
 
 1.  Hay que reconocer todos los esfuerzos realizados en el centro en relación a la formación.

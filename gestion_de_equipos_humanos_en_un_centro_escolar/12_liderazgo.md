@@ -11,3 +11,7 @@ Comparemos las características del liderazgo maduro y del inmaduro:
 |Facilita el desarrollo de relaciones amistosas basadas en el respeto y la confianza mutua, la cooperación.|  Dificultad para aprender de los demás|
 |Favorece el intercambio y el crecimiento| Despliega un estilo autocrático y egocéntrico.|
 || Crea un clima de susceptibilidad, sospecha, rivalidad|
+
+
+
+<iframe src="https://giphy.com/embed/l41YkuPROHQj0fjRS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bahijjaroudi-jaroudi-bahij-l41YkuPROHQj0fjRS">via GIPHY</a></p>

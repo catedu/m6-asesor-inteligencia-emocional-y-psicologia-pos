@@ -49,19 +49,27 @@ Además de llegar a acuerdos en los que se definan los objetivos que pretendemos
 
 
 **
-Fase de Tarea**
+Fase de Tarea:**
 
 Representa el momento en que se relaciona la tarea y la formación. A través de la formación vamos incorporando lo nuevo, que se relaciona con lo que ya se sabe y se hace significativo. Lo nuevo pasa a formar parte del esquema referencial del grupo. Para que esto sea así, es importante que en la fase de pre-tarea se haya reflexionado en grupo y se hayan fijado metas, estrategias y procedimientos comunes. El trabajo en esta fase se puede entender como aquello que debe hacerse para que el grupo alcance los objetivos establecidos.
 
-Cuando uno lleva una formación no importada, sino una que se nutre a partir de la realidad, la gente se apodera del programa, sale del aislamiento, lo hace propio… ¿Cuál es el destino de la importación? Es la capacitación, pero que no se traduce en la práctica. El desarrollo profesional requiere de una actitud de aprendizaje basada en la reflexión sobre la propia práctica y desde el contexto en que ésta se produce. Son muchos los autores que insisten en la importancia de la formación en el lugar de trabajo y la importancia del contexto para el desarrollo profesional.  
+Cuando uno lleva una formación no importada, sino una que se nutre a partir de la realidad, la gente se apodera del programa, sale del aislamiento, lo hace propio… ¿Cuál es el destino de la importación? Es la capacitación, pero que no se traduce en la práctica. El desarrollo profesional requiere de una actitud de aprendizaje basada en la reflexión sobre la propia práctica y desde el contexto en que ésta se produce. Son muchos los autores que insisten en la importancia de la formación en el lugar de trabajo y la importancia del contexto para el desarrollo profesional.
 
-**Fase de Implementación
+
+“Lo que tenemos que aprender lo aprendemos haciendo” Aristóteles
+
+
+  ![](/assets/arist.jpg)  
+
+**Fase de Implementación:
 **
-Puesta en marcha. Es evidente que si llevamos a cabo una formación y se adopta, hay que ponerla en marcha y ésta es una fase que se descuida incomprensiblemente. El cambio solo se produce a través de la acción. Si esta actuación se planifica, las posibilidades de introducir una nueva práctica o implementar un nuevo proyecto aumenta. El cambio ha de ser planificado.
+**Puesta en marcha**. Es evidente que si llevamos a cabo una formación y se adopta, hay que ponerla en marcha y ésta es una fase que se descuida incomprensiblemente. El cambio solo se produce a través de la acción. Si esta actuación se planifica, las posibilidades de introducir una nueva práctica o implementar un nuevo proyecto aumenta. El cambio ha de ser planificado.
 
 No es fácil programar y desarrollar cursos en los que la teoría y la práctica vayan de la mano, sin embargo cuando se trata de formación permanente, y a los efectos de estimular iniciativas y cambios, es necesario hacerlo. Hemos de elaborar proyectos ligados a la práctica como parte esencial de la formación. Asistir a cursos sólo resulta relevante cuando se pone en práctica lo que se ha aprendido, pero esta puesta en acción es muy difícil si no se cuenta con la colaboración de un grupo de compañeros y compañeras en los que apoyarse para cambiar las prácticas y rutinas cotidianas.
 
 La formación debe intentar la transmisión de información nueva, pero también ayudar al equipo de profesores a movilizar su propios recursos, a secuenciar las fases, a elaborar actividades interesantes.
+
+---
 
 **Caso práctico: Formación en Mediación escolar en un centro de secundaria.
 **
