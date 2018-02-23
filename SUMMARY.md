@@ -9,4 +9,5 @@
   * [2.1 Importancia de la forma en que se resuelven los conflictos: Actitudes ante el conflicto.](resolucionde_conflictos/21importancia_de_la_forma_en_que_se_resuelven_los_.md)
   * [2.2 Gestión positiva del conflicto.](resolucionde_conflictos/22_gestion_positiva_del_conflicto.md)
   * [2.3 La comunicación como clave para la resolución de conflictos](resolucionde_conflictos/23-la-comunicacion-como-clave-para-la-resolucion-de-conflictos.md)
+* [Créditos](creditos.md)
 
