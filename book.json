@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "githubcontributors", "edit-link"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "m6-asesor-inteligencia-emocional-y-psicologia-pos"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "githubcontributors",
+    "edit-link",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/m6-asesor-inteligencia-emocional-y-psicologia-pos/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "m6-asesor-inteligencia-emocional-y-psicologia-pos"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
