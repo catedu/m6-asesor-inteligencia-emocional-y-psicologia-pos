@@ -113,7 +113,7 @@ No podemos ser exhaustivos, ya que la cantidad de posibilidades que tiene el men
 
 <iframe src="https://giphy.com/embed/8UUYqeo13j4XK" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8UUYqeo13j4XK">via GIPHY</a></p>
 
-![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/images/image87.gif)
+![](https://catedu.github.io/programa-arduino-con-echidna/images/image87.gif)
 
 <iframe src="https://giphy.com/embed/26FmQhYAvbNPYRJwk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daytimedivas-vh1-diva-26FmQhYAvbNPYRJwk">via GIPHY</a></p>
 
